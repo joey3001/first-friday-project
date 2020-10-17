@@ -4,6 +4,13 @@ body{
 
 }
 
+.centercolumn {
+
+width: 1000px; 
+margin: auto
+
+}
+
 h1{
 
 text-align: center;
@@ -29,6 +36,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 2px;
   background-color: floralwhite;
   margin-bottom: 20px;
+  box-sizing: border-box;
 
 }
 
@@ -41,7 +49,9 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: floralwhite;
   padding-left: 10px;
   padding-right: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
+  display: block; 
+  box-sizing: border-box;
 
 }
 
@@ -67,8 +77,9 @@ ol{
   background-color: floralwhite;
   float:left;
   border-radius: 10px;
-  margin-bottom: 40px;
-  margin-right: 40px;
+  display: inline;
+  box-sizing: border-box;
+  
 
 }
 
