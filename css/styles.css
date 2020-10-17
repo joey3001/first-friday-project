@@ -1,0 +1,23 @@
+h1{
+
+text-align: center;
+
+}
+
+.underline{
+
+text-decoration: underline; 
+
+}
+
+.center{
+
+margin: auto; 
+width: 25%;
+height: auto; 
+display: block;
+border: solid black;
+border-width: 4px;
+border-radius: 10px;
+
+}
