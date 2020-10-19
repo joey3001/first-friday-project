@@ -1,13 +1,16 @@
 body{
   background-color: lightcyan;
 }
+
 h1{
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 .underline{
   text-decoration: underline; 
 }
+
 .center{
   margin: auto; 
   width: 20%;
@@ -21,6 +24,7 @@ h1{
   background-color: floralwhite;
   box-sizing: border-box;
 }
+
 .box1{
   margin: auto;
   width: 55%;
@@ -32,18 +36,22 @@ h1{
   background-color: floralwhite;
   box-sizing: border-box;
 }
+
 ol{
   line-height: 160%;
 }
+
  .spacer{
   line-height: 110%;
   margin-bottom: 10px;
   list-style: none;
 }
+
 .container {
   width: 872px; 
   margin: auto;
   }
+
 .columnbox1{
   width: 280px;
   height: auto;
@@ -56,9 +64,11 @@ ol{
   background-color: floralwhite;
   box-sizing: border-box;
 }
+
 .container2{
   /*container 2 only has properties under certain media query conditions listed below*/
   }
+
 .columnbox2{
   width: 280px;
   height: auto;
@@ -69,6 +79,7 @@ ol{
   box-sizing: border-box; 
   background-color: floralwhite;
 }
+
 .bold{
   font-weight: bold; 
   font-style: italic;
@@ -76,22 +87,27 @@ ol{
   margin-bottom: 40px;
   text-align: center;
 }
+
 .ulspacer{
   padding-left: 36px;
 }
+
 ul li {
   margin-bottom: 50px;
   padding-right: 20px;
 }
+
 @media screen and (max-width: 872px) {
   .container {
     width: 600px; 
     margin: auto;
     }
+
   .container2 {
     width: 280px; 
     margin: auto;
     }
+
   .columnbox2{
     clear: both;
     width: 280px;
@@ -103,11 +119,13 @@ ul li {
     background-color: floralwhite;
   }
 }
+
 @media screen and (max-width: 576px) {
   .container {
     width: 280px; 
     margin: auto;
     }
+
   .columnbox1{
     clear: both;
     width: 280px;
@@ -118,6 +136,7 @@ ul li {
     background-color: floralwhite;
     box-sizing: border-box; 
   }
+  
   .columnbox2{
     clear: both;
     width: 280px;
