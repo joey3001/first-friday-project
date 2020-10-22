@@ -38,7 +38,7 @@ This application will link you to three web-pages I've co-authored with my class
 
 #### Follow these instructions to view the code in the VS Code text editor using commands in the Git Bash command line. These instructions are for the windows OS.
 
-1. Download VS Code at [this link] (https://code.visualstudio.com/)
+1. Download VS Code at [this link](https://code.visualstudio.com/)
 2. Accept the license agreement and proceed until you are given the option to "Select Additional Tasks."
 3. Make sure that "Add to PATH" is clicked, and then proceed. 
 4. Once the installation is complete, go back to your Git Bash. 
@@ -53,7 +53,7 @@ This application will link you to three web-pages I've co-authored with my class
 2. Click on the green button labeled "code" towards the right side of the page's center. In the drop down menu that opens, click on the button labeled "Download Zip."
 3. Once your download is complete, open the zipped file. Click on the button labeled "Extract All" at the top of your file explorer. 
 4. Choose the location in which you want to extract the files, and navigate to that location once this process is complete. 
-5. Enter the "first-friday-project" directory and click on the index.html file to launch the project in your default web broswer. 
+5. Enter the "first-friday-project" directory and click on the index.html file to launch the project in your default web browser. 
 
 ## Known Bugs
 
