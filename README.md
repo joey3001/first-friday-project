@@ -10,17 +10,17 @@ This application will link you to three web-pages I've co-authored with my class
 
 ### Setup/Installation Requirements
 
-## To view this website online please use the following GH-Pages link: 
+#### To view this website online please use the following GH-Pages link: 
 
 [Joseph Nero's First Friday Project](https://joey3001.github.io/first-friday-project/)
 
-# To view this website locally on windows, please follow these instructions to clone and open this project using git commands in the terminal. 
+#### To view this website locally on windows, please follow these instructions to clone and open this project using git commands in the terminal. 
 
 1. Download Git Bash for windows at [this link](https://gitforwindows.org/)
 2. Click "Next" through the setup menu until you reach "Select Components." Then click "Additional icons", which should automatically click "On the Desktop", in order to add Git Bash onto your desktop. If "On the Desktop" is not automatically clicked, make sure it is clicked before proceeding. 3. Click "Next" until you reach "Choosing the default editor used by Git." On this page, select "Use Visual Studio Code as Git's default editor."
 4. Open Git Bash by clicking on its corresponding desktop icon. Use the CD command in the git bash command line to navigate to the directory in which you wish to clone this project. I would reccomend navigating to your desktop by entering the following command in the command line : 
 
-  cd ~/desktop 
+      cd ~/desktop 
 
 5. Use a web broswer to go to the repository webpage at [this link](https://github.com/joey3001/first-friday-project). Click on the green button labaled "code" towards the right side of the page's center. Click on the HTTPS option and copy the presented URL. 
 6. In Git Bash, enter the following command in the git bash command line to clone the repository into your desired directory. You can paste the URL you copied in the previous step to achieve this easily : 
@@ -29,11 +29,11 @@ This application will link you to three web-pages I've co-authored with my class
 
 7. Navigate into the directory you have just cloned onto your desktop by using the CD command. I would reccomend entering the following command into the command line : 
 
-  cd first-friday-project 
+      cd first-friday-project 
 
 8. Once you are within the cloned directory, Enter the following command in the git bash command line to open the html page in your default browser : 
 
-  start index.html 
+      start index.html 
 
 
 ## Known Bugs
