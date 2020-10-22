@@ -14,7 +14,7 @@ This application will link you to three web-pages I've co-authored with my class
 
 [Joseph Nero's First Friday Project](https://joey3001.github.io/first-friday-project/)
 
-#### To view this website locally on windows, please follow these instructions to clone and open this project using git commands in the terminal. 
+#### To view this website locally, please follow these instructions to clone and open this project using git commands in the terminal. These instructions are for the windows OS. 
 
 1. Download Git Bash for windows at [this link](https://gitforwindows.org/)
 2. Click "Next" through the setup menu until you reach "Select Components." Then click "Additional icons", which should automatically click "On the Desktop", in order to add Git Bash onto your desktop. If "On the Desktop" is not automatically clicked, make sure it is clicked before proceeding. 
@@ -35,6 +35,25 @@ This application will link you to three web-pages I've co-authored with my class
 8. Once you are within the cloned directory, Enter the following command in the git bash command line to open the project html page in your default browser : 
 
             start index.html 
+
+#### To view the code in the VS Code text editor using commands in the Git Bash command line. These instructions are for the windows OS.
+
+1. Download VS Code at [this link] (https://code.visualstudio.com/)
+2. Accept the license agreement and proceed until you are given the option to "Select Additional Tasks."
+3. Make sure that "Add to PATH" is clicked, and then proceed. 
+4. Once the installation is complete, go back to your Git Bash. 
+5. Navigate to the project directory with the CD Command if needed. If you're following this guide step-by-step, you should already be there. 
+6. Once you are within the project directory, enter the following command into the git bash command line to view the all of the projects code in VS Code : 
+
+            code . 
+
+#### To download a file containing the contents of this repository to a location of your choice, please follow these instructions. 
+
+1. Use a web browser to go to the repository webpage at [this link](https://github.com/joey3001/
+2. Click on the green button labeled "code" towards the right side of the page's center. In the drop down menu that opens, click on the button labeled "Download Zip."
+3. Once your download is complete, open the zipped file. Click on the button labeled "Extract All" at the top of your file explorer. 
+4. Choose the location in which you want to extract the files, and navigate to that location once this process is complete. 
+5. Enter the "first-friday-project" directory and click on the index.html file to launch the project in your default web broswer. 
 
 ## Known Bugs
 
