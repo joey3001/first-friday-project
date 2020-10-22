@@ -28,7 +28,7 @@ This application will link you to three web-pages I've co-authored with my class
 
             git clone https://github.com/joey3001/first-friday-project.git
 
-7. Navigate into the directory you have just cloned by using the CD command in the git bash command line. I would reccomend entering the following command into the git bash command line : 
+7. Navigate into the directory you have just cloned by using the CD command in the git bash command line. You should only have to enter the following command : 
 
             cd first-friday-project 
 
@@ -36,20 +36,20 @@ This application will link you to three web-pages I've co-authored with my class
 
             start index.html 
 
-#### To view the code in the VS Code text editor using commands in the Git Bash command line. These instructions are for the windows OS.
+#### Follow these instructions to view the code in the VS Code text editor using commands in the Git Bash command line. These instructions are for the windows OS.
 
 1. Download VS Code at [this link] (https://code.visualstudio.com/)
 2. Accept the license agreement and proceed until you are given the option to "Select Additional Tasks."
 3. Make sure that "Add to PATH" is clicked, and then proceed. 
 4. Once the installation is complete, go back to your Git Bash. 
 5. Navigate to the project directory with the CD Command if needed. If you're following this guide step-by-step, you should already be there. 
-6. Once you are within the project directory, enter the following command into the git bash command line to view the all of the projects code in VS Code : 
+6. Once you are within the project directory, enter the following command into the git bash command line to view all of the projects code in VS Code : 
 
             code . 
 
 #### To download a file containing the contents of this repository to a location of your choice, please follow these instructions. 
 
-1. Use a web browser to go to the repository webpage at [this link](https://github.com/joey3001/
+1. Use a web browser to go to the repository webpage at [this link](https://github.com/joey3001/)
 2. Click on the green button labeled "code" towards the right side of the page's center. In the drop down menu that opens, click on the button labeled "Download Zip."
 3. Once your download is complete, open the zipped file. Click on the button labeled "Extract All" at the top of your file explorer. 
 4. Choose the location in which you want to extract the files, and navigate to that location once this process is complete. 
