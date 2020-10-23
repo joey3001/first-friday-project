@@ -12,9 +12,9 @@ This application will link you to three web-pages I've co-authored with my class
 
 #### Software requirements 
 
-1. A web browser to view the website. I would recommend Chrome. 
-2. If you wish to to clone the repository from github using git commands in the terminal, you will need a terminal program if you are on Windows OS & Git. Instructions for how to install Git Bash, my recommended terminal program for the windows OS, are below. Installing Git Bash will also install Git. 
-3. If you wish to view/edit the code, you will need a code editor. Instructions for how to install VSCode, my recommended code editor, are listed below.
+1. A web browser to view the website. I would recommend Google Chrome. 
+2. If you wish to to clone the repository from github using git commands in the terminal, you will need a terminal program if you are on Windows OS & Git. Instructions for installing Git Bash, my recommended terminal program for the windows OS, are below. Installing Git Bash will also install Git. You can also download it [here](https://gitforwindows.org/). 
+3. If you wish to view/edit the code, you will need a code editor. Instructions for installing VSCode, my recommended code editor, are listed below. You can also download it [here](https://code.visualstudio.com/). 
 
 #### To view this website online please use the following GH-Pages link: 
 
@@ -24,31 +24,31 @@ This application will link you to three web-pages I've co-authored with my class
 
 1. Download Git Bash for windows at [this link](https://gitforwindows.org/)
 2. Click "Next" through the setup menu until you reach "Select Components." Then click "Additional icons", which should automatically click "On the Desktop", in order to add Git Bash onto your desktop. If "On the Desktop" is not automatically clicked, make sure it is clicked before proceeding. 
-3. Open Git Bash by clicking on its corresponding desktop icon. Use the CD command in the git bash command line to navigate to the directory in which you wish to clone this project. I would recommend navigating to your desktop by entering the following command in the command line : 
+3. Open Git Bash by clicking on its corresponding desktop icon. Use the CD command in the Git Bash command line to navigate to the directory in which you wish to clone this project. I would recommend navigating to your desktop by entering the following command in the Git Bash command line : 
 
             cd ~/desktop 
 
 4. Use a web browser to go to the repository webpage at [this link](https://github.com/joey3001/first-friday-project). Click on the green button labeled "code" towards the right side of the page's center. Click on the HTTPS option and copy the presented URL. 
-5. In Git Bash, enter the following command in the git bash command line to clone the repository into your current directory. You can paste the URL you copied in the previous step to achieve this easily : 
+5. In Git Bash, enter the following command in the Git Gash command line to clone the repository into your current directory. You can paste the URL you copied in the previous step to achieve this easily : 
 
             git clone https://github.com/joey3001/first-friday-project.git
 
-6. Navigate into the directory you have just cloned by using the CD command in the git bash command line. You should only have to enter the following command : 
+6. Navigate into the directory you have just cloned by using the CD command in the Git Bash command line. You should only have to enter the following command : 
 
             cd first-friday-project 
 
-7. Once you are within the cloned directory, Enter the following command in the git bash command line to open the project html page in your default browser : 
+7. Once you are within the cloned directory, Enter the following command in the Git Bash command line to open the project html page in your default browser : 
 
             start index.html 
 
-#### Follow these instructions to view the code in the VSCode code editor using commands in the Git Bash terminal. These instructions are for the windows OS. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
+#### Follow these instructions to view the code in the VSCode editor using commands in the Git Bash terminal. These instructions are for the windows OS. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
 
 1. Download VS Code at [this link](https://code.visualstudio.com/)
 2. Accept the license agreement and proceed until you are given the option to "Select Additional Tasks."
 3. Make sure that "Add to PATH" is clicked, and then proceed. 
 4. Once the installation is complete, go back to your Git Bash. 
 5. Navigate to the project directory with the CD Command if needed. If you're following this guide step-by-step, you should already be there. 
-6. Once you are within the project directory, enter the following command into the git bash command line to view all of the projects code in VS Code : 
+6. Once you are within the project directory, enter the following command into the Git Bash command line to view all of the projects code in VS Code : 
 
             code . 
 
