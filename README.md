@@ -12,9 +12,9 @@ This application will link you to three web-pages I've co-authored with my class
 
 #### Software requirements 
 
-1. A web browser. I would reccomend chrome. 
-2. A terminal program to clone the repository from github using git commands in the terminal (instructions for how to download Git Bash, my recomended terminal program for the windows OS, are below).
-3. A code editor to view or edit the code base (instructions for how to download VSCode, my recomended text editor, are below).
+1. A web browser. I would recommend chrome. 
+2. A terminal program to clone the repository from github using git commands in the terminal (instructions for how to download Git Bash, my recommended terminal program for the windows OS, are below).
+3. A code editor to if you wish to view/edit the code base (instructions for how to download VSCode, my recommended code editor, are below).
 
 #### To view this website online please use the following GH-Pages link: 
 
@@ -24,7 +24,7 @@ This application will link you to three web-pages I've co-authored with my class
 
 1. Download Git Bash for windows at [this link](https://gitforwindows.org/)
 2. Click "Next" through the setup menu until you reach "Select Components." Then click "Additional icons", which should automatically click "On the Desktop", in order to add Git Bash onto your desktop. If "On the Desktop" is not automatically clicked, make sure it is clicked before proceeding. 
-3. Open Git Bash by clicking on its corresponding desktop icon. Use the CD command in the git bash command line to navigate to the directory in which you wish to clone this project. I would reccomend navigating to your desktop by entering the following command in the command line : 
+3. Open Git Bash by clicking on its corresponding desktop icon. Use the CD command in the git bash command line to navigate to the directory in which you wish to clone this project. I would recommend navigating to your desktop by entering the following command in the command line : 
 
             cd ~/desktop 
 
@@ -41,7 +41,7 @@ This application will link you to three web-pages I've co-authored with my class
 
             start index.html 
 
-#### Follow these instructions to view the code in the VS Code text editor using commands in the Git Bash terminal. These instructions are for the windows OS. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
+#### Follow these instructions to view the code in the VSCode code editor using commands in the Git Bash terminal. These instructions are for the windows OS. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
 
 1. Download VS Code at [this link](https://code.visualstudio.com/)
 2. Accept the license agreement and proceed until you are given the option to "Select Additional Tasks."
