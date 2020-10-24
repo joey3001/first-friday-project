@@ -13,7 +13,7 @@ This application will link you to three webpages I've co-authored with my classm
 #### Software requirements 
 
 1. A web browser to view the website. I would recommend Google Chrome. 
-2. If you wish to clone the repository from github using git commands in the terminal, you will need a terminal program & Git. Instructions for installing Git Bash, my recommended terminal program for the windows OS, are below. Installing Git Bash will also install Git. You can also download it [here](https://gitforwindows.org/). 
+2. If you wish to clone the repository from github using git commands in the terminal, you will need a terminal program & Git. Instructions for installing Git Bash, my recommended terminal program for the windows OS, are below. Installing Git Bash will also install Git. You can also download [Git Bash here](https://gitforwindows.org/). 
 3. If you wish to view/edit the code, you will need a code editor. Instructions for installing VSCode, my recommended code editor, are listed below. You can also download it [here](https://code.visualstudio.com/). 
 
 #### To view this website online please use the following GH-Pages link: 
