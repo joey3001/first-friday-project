@@ -9,18 +9,19 @@
 This application will link you to three webpages I've co-authored with my classmates. It will also tell you about my hobbies and my professional background. 
 
 ## Setup/Installation Requirements
+  - ### If you have difficulty following any of the steps/instructions listed below, please contact me at josephnero111@gmail.com 
 
 #### Software requirements 
 
 1. A web browser to view the website. I would recommend Google Chrome. 
-2. To clone the repository from Github using git commands in the terminal, you will need a terminal program & Git. Instructions for installing Git Bash, my recommended terminal program for the Windows OS, are below. Installing Git Bash will also install Git. You can also download [Git Bash here](https://gitforwindows.org/). 
-3. To view/edit the code, you will need a code editor. Instructions for installing VSCode, my recommended code editor, are listed below. You can also download it [here](https://code.visualstudio.com/). 
+2. To clone the repository from Github using git commands in the terminal, you need a terminal program & Git. Instructions for installing Git Bash, my recommended terminal program for the Windows OS, are below. Installing Git Bash will also install Git. You can also download [Git Bash here](https://gitforwindows.org/). 
+3. To view/edit the code, you need a code editor. Instructions for installing VSCode, my recommended code editor, are listed below. You can also download it [here](https://code.visualstudio.com/). 
 
 #### To view this website online please use the following GH-Pages link: 
 
 [Joseph Nero's First Friday Project](https://joey3001.github.io/first-friday-project/)
 
-#### To view this website locally, please follow these instructions to clone and open this project using git commands in the Git Bash terminal. These instructions are for the Windows OS. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
+#### To view this website locally, please follow these instructions to clone and open this project using git commands in the Git Bash terminal. These instructions are for the Windows OS. 
 
 1. Download Git Bash for Windows at [this link.](https://gitforwindows.org/)
 2. Click "Next" through the setup menu until you reach "Select Components." Then click "Additional icons", which should automatically click "On the Desktop", in order to add Git Bash onto your desktop. If "On the Desktop" is not automatically clicked, make sure it is clicked before proceeding. 
@@ -41,7 +42,7 @@ This application will link you to three webpages I've co-authored with my classm
 
             start index.html 
 
-#### Follow these instructions to view the code in the VSCode editor using commands in the Git Bash terminal. These instructions are for the Windows OS. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
+#### Follow these instructions to view the code in the VSCode editor using commands in the Git Bash terminal. These instructions are for the Windows OS. 
 
 1. Download VSCode at [this link.](https://code.visualstudio.com/)
 2. Accept the license agreement and proceed until you are given the option to "Select Additional Tasks."
@@ -52,7 +53,7 @@ This application will link you to three webpages I've co-authored with my classm
 
             code . 
 
-#### To download a file containing the contents of this repository to a location of your choice, please follow these instructions. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
+#### To download a file containing the contents of this repository to a location of your choice, please follow these instructions. 
 
 1. Use a web browser to go to the repository webpage at [this link.](https://github.com/joey3001/first-friday-project)
 2. Click on the green button labeled "code" towards the right side of the page's center. In the drop-down menu that opens, click on the button labeled "Download Zip."
