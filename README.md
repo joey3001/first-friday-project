@@ -9,7 +9,7 @@
 This application will link you to three webpages I've co-authored with my classmates. It will also tell you about my hobbies and my professional background. 
 
 ## Setup/Installation Requirements
-  - ### If you have difficulty following any of the steps/instructions listed below, please contact me at josephnero111@gmail.com 
+#### If you have difficulty following any of the steps/instructions listed below, please contact me at josephnero111@gmail.com 
 
 #### Software requirements 
 
