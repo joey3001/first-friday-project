@@ -54,7 +54,7 @@ This application will link you to three webpages I've co-authored with my classm
 
 #### To download a file containing the contents of this repository to a location of your choice, please follow these instructions. If you have difficulty following any of these steps please contact me at josephnero111@gmail.com 
 
-1. Use a web browser to go to the repository webpage at [this link.](https://github.com/joey3001/)
+1. Use a web browser to go to the repository webpage at [this link.](https://github.com/joey3001/first-friday-project)
 2. Click on the green button labeled "code" towards the right side of the page's center. In the drop-down menu that opens, click on the button labeled "Download Zip."
 3. Once your download is complete, open the zipped file. Click on the button labeled "Extract All" at the top of your file explorer. 
 4. Choose the location in which you want to extract the files, and navigate to that location once this process is complete. 
