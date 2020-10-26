@@ -77,6 +77,6 @@ I used HTML, CSS, and a variety of media query's within CSS to make this page re
 
 ### License
 
-[MIT License]https://choosealicense.com/licenses/mit/
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) 2020 Joseph Nero 
