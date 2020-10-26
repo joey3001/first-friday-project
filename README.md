@@ -75,6 +75,13 @@ If you have an issue, reach out to me at josephnero111@gmail.com
 
 I used HTML, CSS, and a variety of media query's within CSS to make this page responsive to your viewing screen size. I also used a container div to center three floating columns / vertical boxes to the size of your screen. 
 
+  * HTML 
+  * CSS
+  * VSCode 
+  * Git
+  * Github 
+  * Git Bash
+
 ### License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
