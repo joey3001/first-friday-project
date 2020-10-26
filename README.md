@@ -16,7 +16,7 @@ This application will link you to three webpages I've co-authored with my classm
 1. A web browser to view the website. I recommend Google Chrome.
 2. Git Bash (or another terminal program) & Git.
     - To clone the repository from Github using git commands in the terminal, you need a terminal program & Git. For the Windows OS, I recommend the Git Bash terminal program. Installing Git Bash will also install Git. Instructions for installing Git bash are below.  You can also download [Git Bash here](https://gitforwindows.org/). 
-3. VSCode (Or another code editor). 
+3. VSCode (or another code editor). 
     - To view/edit this code, you need a code editor. I recommend VSCode. Instructions for installing VSCode are below. You can also download it [here](https://code.visualstudio.com/). 
 
 #### To view this website online please use the following GH-Pages link: 
