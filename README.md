@@ -1,6 +1,6 @@
 # My first friday project
 
-#### this application tells you a little bit about me and links to some of the other projects I've done. 
+#### This application tells you a little bit about me and links to some of the other projects I've done. 
 
 #### By Joseph Nero 
 
