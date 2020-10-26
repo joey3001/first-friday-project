@@ -13,9 +13,11 @@ This application will link you to three webpages I've co-authored with my classm
 
 #### Software requirements 
 
-1. A web browser to view the website. I would recommend Google Chrome. 
-2. To clone the repository from Github using git commands in the terminal, you need a terminal program & Git. Instructions for installing Git Bash, my recommended terminal program for the Windows OS, are below. Installing Git Bash will also install Git. You can also download [Git Bash here](https://gitforwindows.org/). 
-3. To view/edit the code, you need a code editor. Instructions for installing VSCode, my recommended code editor, are listed below. You can also download it [here](https://code.visualstudio.com/). 
+1. A web browser to view the website. I recommend Google Chrome.
+2. Git Bash (or another terminal program) & Git.
+    - To clone the repository from Github using git commands in the terminal, you need a terminal program & Git. For Windows OS, I recommend the Git Bash terminal program. Installing Git Bash will also install Git. Instructions for installing Git bash are below.  You can also download [Git Bash here](https://gitforwindows.org/). 
+3. VSCode (Or another code editor). 
+    - To view/edit this code, you need a code editor. I recommend VSCode. Instructions for installing VSCode are below. You can also download it [here](https://code.visualstudio.com/). 
 
 #### To view this website online please use the following GH-Pages link: 
 
@@ -75,6 +77,6 @@ I used HTML, CSS, and a variety of media query's within CSS to make this page re
 
 ### License
 
-MIT License
+[MIT License]https://choosealicense.com/licenses/mit/
 
 Copyright (c) 2020 Joseph Nero 
